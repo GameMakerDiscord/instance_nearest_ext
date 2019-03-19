@@ -10,4 +10,4 @@ This is a port of that legacy extension to Game Maker Studio 1 & 2. <br>
 <li>Find Nth nearest instance with variable X = 0, where "X" can be any variable, "0" can be any number and "=" can be any operator.</li>
 </ul>
 
-The original extension that I based this off was written by **Kyle_Solo** can can be found here: http://gmbase.cubedwater.com/index.php?page=extension&id=158
+The original extension that I based this off was written by **Kyle_Solo** and can be found here: http://gmbase.cubedwater.com/index.php?page=extension&id=158
